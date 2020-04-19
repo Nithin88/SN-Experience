@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <size>12</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">a203efd6db40101092ddcd3f2996190b</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>nithin</sys_created_by>
+        <sys_created_on>2020-04-10 23:27:53</sys_created_on>
+        <sys_id>6e03efd6db40101092ddcd3f2996190d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="SN Experience" source="x_171481_sn_exp">86fedf1edb00101092ddcd3f299619d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Experience">86fedf1edb00101092ddcd3f299619d9</sys_scope>
+        <sys_update_name>sp_column_6e03efd6db40101092ddcd3f2996190d</sys_update_name>
+        <sys_updated_by>nithin</sys_updated_by>
+        <sys_updated_on>2020-04-10 23:27:53</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SN Experience">86fedf1edb00101092ddcd3f299619d9</application>
+        <file_path/>
+        <instance_id>c8c5fa33db7477802f68c59705961952</instance_id>
+        <instance_name>dev82431</instance_name>
+        <name>sp_column_6e03efd6db40101092ddcd3f2996190d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size>12</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">a203efd6db40101092ddcd3f2996190b</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>nithin</sys_created_by><sys_created_on>2020-04-10 23:27:53</sys_created_on><sys_id>6e03efd6db40101092ddcd3f2996190d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="SN Experience" source="x_171481_sn_exp">86fedf1edb00101092ddcd3f299619d9</sys_package><sys_policy/><sys_scope display_value="SN Experience">86fedf1edb00101092ddcd3f299619d9</sys_scope><sys_update_name>sp_column_6e03efd6db40101092ddcd3f2996190d</sys_update_name><sys_updated_by>nithin</sys_updated_by><sys_updated_on>2020-04-10 23:27:53</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>-1463628365</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>8efedf1edb00101092ddcd3f299619db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nithin</sys_created_by>
+        <sys_created_on>2020-04-10 23:27:54</sys_created_on>
+        <sys_id>2203efd6db40101092ddcd3f29961910</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171666bd0eb0000001</sys_recorded_at>
+        <sys_updated_by>nithin</sys_updated_by>
+        <sys_updated_on>2020-04-10 23:27:54</sys_updated_on>
+        <type>Column</type>
+        <update_guid>2a03efd6e7401010df575f28dbb58e0f</update_guid>
+        <update_guid_history>2a03efd6e7401010df575f28dbb58e0f:-1463628365</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">b28463dadb40101092ddcd3f29961962</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nithin</sys_created_by>
+        <sys_created_on>2020-04-10 23:34:28</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>b01d0f3781e347f4b93583009bd286c4</sys_id>
+        <sys_metadata>6e03efd6db40101092ddcd3f2996190d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="SN Experience" source="x_171481_sn_exp">86fedf1edb00101092ddcd3f299619d9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SN Experience">86fedf1edb00101092ddcd3f299619d9</sys_scope>
+        <sys_scope_delete display_value="">b99d8300681e435c89be032f139a26c4</sys_scope_delete>
+        <sys_update_name>sp_column_6e03efd6db40101092ddcd3f2996190d</sys_update_name>
+        <sys_update_version display_value="sp_column_6e03efd6db40101092ddcd3f2996190d">2203efd6db40101092ddcd3f29961910</sys_update_version>
+        <sys_updated_by>nithin</sys_updated_by>
+        <sys_updated_on>2020-04-10 23:34:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

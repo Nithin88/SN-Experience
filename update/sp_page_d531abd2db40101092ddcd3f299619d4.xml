@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>sn_exp</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>nithin</sys_created_by>
+        <sys_created_on>2020-04-10 23:19:54</sys_created_on>
+        <sys_id>d531abd2db40101092ddcd3f299619d4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>sn_exp</sys_name>
+        <sys_package display_value="SN Experience" source="x_171481_sn_exp">86fedf1edb00101092ddcd3f299619d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Experience">86fedf1edb00101092ddcd3f299619d9</sys_scope>
+        <sys_update_name>sp_page_d531abd2db40101092ddcd3f299619d4</sys_update_name>
+        <sys_updated_by>nithin</sys_updated_by>
+        <sys_updated_on>2020-04-11 00:02:26</sys_updated_on>
+        <title>SN Experience</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=d531abd2db40101092ddcd3f299619d4"/>
+</record_update>

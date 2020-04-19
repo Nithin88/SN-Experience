@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="widget_with_image_sp_instance">
+    <widget_with_image_sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <conditions/>
+        <css/>
+        <glyph/>
+        <icon/>
+        <id/>
+        <image/>
+        <order>46</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">9385e75edb40101092ddcd3f29961933</sp_column>
+        <sp_widget display_value="pe cta count">7223daf273230300e9d580844ff6a7c7</sp_widget>
+        <sys_class_name>widget_with_image_sp_instance</sys_class_name>
+        <sys_created_by>nithin</sys_created_by>
+        <sys_created_on>2020-04-11 11:12:25</sys_created_on>
+        <sys_id>72444e6adb44501092ddcd3f29961970</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SN Experience" source="x_171481_sn_exp">86fedf1edb00101092ddcd3f299619d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Experience">86fedf1edb00101092ddcd3f299619d9</sys_scope>
+        <sys_update_name>widget_with_image_sp_instance_72444e6adb44501092ddcd3f29961970</sys_update_name>
+        <sys_updated_by>nithin</sys_updated_by>
+        <sys_updated_on>2020-04-11 11:12:25</sys_updated_on>
+        <table/>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </widget_with_image_sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=72444e6adb44501092ddcd3f29961970"/>
+</record_update>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>13</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">9385e75edb40101092ddcd3f29961933</sp_column>
+        <sp_widget display_value="PE Business Impact">93c9cca813963200ba3a7b1a6144b0bd</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>nithin</sys_created_by>
+        <sys_created_on>2020-04-11 05:00:09</sys_created_on>
+        <sys_id>a11f24a2dbc8101092ddcd3f29961933</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SN Experience" source="x_171481_sn_exp">86fedf1edb00101092ddcd3f299619d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Experience">86fedf1edb00101092ddcd3f299619d9</sys_scope>
+        <sys_update_name>sp_instance_a11f24a2dbc8101092ddcd3f29961933</sys_update_name>
+        <sys_updated_by>nithin</sys_updated_by>
+        <sys_updated_on>2020-04-11 05:00:09</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=a11f24a2dbc8101092ddcd3f29961933"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SN Experience">86fedf1edb00101092ddcd3f299619d9</application>
+        <file_path/>
+        <instance_id>c8c5fa33db7477802f68c59705961952</instance_id>
+        <instance_name>dev82431</instance_name>
+        <name>sp_instance_a11f24a2dbc8101092ddcd3f29961933</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>13</order><roles/><short_description/><size>md</size><sp_column display_value="1">9385e75edb40101092ddcd3f29961933</sp_column><sp_widget display_value="PE Business Impact">93c9cca813963200ba3a7b1a6144b0bd</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>nithin</sys_created_by><sys_created_on>2020-04-11 05:00:09</sys_created_on><sys_id>a11f24a2dbc8101092ddcd3f29961933</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="SN Experience" source="x_171481_sn_exp">86fedf1edb00101092ddcd3f299619d9</sys_package><sys_policy/><sys_scope display_value="SN Experience">86fedf1edb00101092ddcd3f299619d9</sys_scope><sys_update_name>sp_instance_a11f24a2dbc8101092ddcd3f29961933</sys_update_name><sys_updated_by>nithin</sys_updated_by><sys_updated_on>2020-04-11 05:00:09</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=a11f24a2dbc8101092ddcd3f29961933"/></record_update>]]></payload>
+        <payload_hash>-2037738909</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>8efedf1edb00101092ddcd3f299619db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>nithin</sys_created_by>
+        <sys_created_on>2020-04-11 05:00:09</sys_created_on>
+        <sys_id>211f24a2dbc8101092ddcd3f29961935</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171679c009b0000001</sys_recorded_at>
+        <sys_updated_by>nithin</sys_updated_by>
+        <sys_updated_on>2020-04-11 05:00:09</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>291f24a234c81010597c4bea0fd6a834</update_guid>
+        <update_guid_history>291f24a234c81010597c4bea0fd6a834:-2037738909</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">118f64a2dbc8101092ddcd3f29961948</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>nithin</sys_created_by>
+        <sys_created_on>2020-04-11 05:02:02</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>1fa53cc166504ec088939119efe422f9</sys_id>
+        <sys_metadata>a11f24a2dbc8101092ddcd3f29961933</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SN Experience" source="x_171481_sn_exp">86fedf1edb00101092ddcd3f299619d9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SN Experience">86fedf1edb00101092ddcd3f299619d9</sys_scope>
+        <sys_scope_delete display_value="">b99d8300681e435c89be032f139a26c4</sys_scope_delete>
+        <sys_update_name>sp_instance_a11f24a2dbc8101092ddcd3f29961933</sys_update_name>
+        <sys_update_version display_value="sp_instance_a11f24a2dbc8101092ddcd3f29961933">211f24a2dbc8101092ddcd3f29961935</sys_update_version>
+        <sys_updated_by>nithin</sys_updated_by>
+        <sys_updated_on>2020-04-11 05:02:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
